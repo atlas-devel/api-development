@@ -1,0 +1,37 @@
+[
+  {
+    "id": "customer1",
+    "name": "Irakarama Leon",
+    "nid": "123456789012",
+    "email": "leon@example.com",
+    "phone": "0780000001"
+  },
+  {
+    "id": "customer2",
+    "name": "Kabayiza Leon",
+    "nid": "234567890123",
+    "email": "kabayiza@example.com",
+    "phone": "0780000002"
+  },
+  {
+    "id": "customer3",
+    "name": "Irakarama Eric",
+    "nid": "345678901234",
+    "email": "eric@example.com",
+    "phone": "0780000003"
+  },
+  {
+    "id": "customer4",
+    "name": "Irakarama Phillip",
+    "nid": "456789012345",
+    "email": "phillip@example.com",
+    "phone": "0780000004"
+  },
+  {
+    "id": "customer5",
+    "name": "Irakarama Bruno",
+    "nid": "567890123456",
+    "email": "bruno@example.com",
+    "phone": "0780000005"
+  }
+]
